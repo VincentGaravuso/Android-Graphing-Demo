@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Take Home Exam</string>
+    <string name="numStudents">Total No. of Students</string>
+    <string name="aStudents">A Students</string>
+    <string name="bStudents">B Students</string>
+    <string name="cStudents">C Students</string>
+    <string name="dStudents">D Students</string>
+    <string name="fStudents">F Students</string>
+    <string name="compute">Compute</string>
+</resources>
